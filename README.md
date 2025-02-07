@@ -4,7 +4,7 @@ This is a simple web app for a product that my wife sells on Amazon. To test it 
 
 I decided to write this program to become more familiar with how Django works in creating web apps. It also serves as a good template for to build an e-commerce store. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZoiYzasW39M)
 
 # Web Pages
 
@@ -16,7 +16,6 @@ This project was created in VS code. It, of course, uses python, html, css and j
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Real Python](https://realpython.com/get-started-with-django-1/)
 * [Django](https://docs.djangoproject.com/en/5.1/intro/tutorial01/)
 
